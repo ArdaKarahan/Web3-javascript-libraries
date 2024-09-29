@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/BlockchainMessanger.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/BlockchainMessanger.sol": {
       "lastModificationDate": 1726497503082,
       "contentHash": "6aaf8c320e1f29934d7ff6d8a290bac7",
       "sourceName": "contracts/BlockchainMessanger.sol",
@@ -37,7 +37,7 @@
         "BlockchainMessenger"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/CoffeToken.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/CoffeToken.sol": {
       "lastModificationDate": 1726497454821,
       "contentHash": "235f942d07747b5aa8d31bad48f6fa6d",
       "sourceName": "contracts/CoffeToken.sol",
@@ -76,7 +76,7 @@
         "CoffeeToken"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/access/AccessControl.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/access/AccessControl.sol": {
       "lastModificationDate": 1726393714214,
       "contentHash": "4c80b7fdf559a9a348e832a57d072a0b",
       "sourceName": "@openzeppelin/contracts/access/AccessControl.sol",
@@ -116,7 +116,7 @@
         "AccessControl"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "c6375ef25e84c90b3d15f9ec4eef218f",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
@@ -157,7 +157,7 @@
         "ERC20"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/Context.sol": {
       "lastModificationDate": 1726393714234,
       "contentHash": "67bfbc07588eb8683b3fd8f6f909563e",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
@@ -193,7 +193,7 @@
         "Context"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
       "lastModificationDate": 1726393714234,
       "contentHash": "6a55c353946e471d9792965d06208295",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
@@ -231,7 +231,7 @@
         "ERC165"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/access/IAccessControl.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/access/IAccessControl.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "e3a14b0714caaaa82d58fa0bc3756079",
       "sourceName": "@openzeppelin/contracts/access/IAccessControl.sol",
@@ -267,7 +267,7 @@
         "IAccessControl"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "de0163561b417b800d01749cbbe2147e",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
@@ -303,7 +303,7 @@
         "IERC165"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
       "lastModificationDate": 1726393714234,
       "contentHash": "4aefc698f77ecbace7f401257dfe182d",
       "sourceName": "@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
@@ -341,7 +341,7 @@
         "IERC721Errors"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "5517c8678c18eb1a8ba58810e7ca39ca",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
@@ -377,7 +377,7 @@
         "IERC20"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "4c02fa6f7ae7b6c289cef80424f0c875",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
@@ -415,497 +415,7 @@
         "IERC20Metadata"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol": {
-      "lastModificationDate": 1726393714244,
-      "contentHash": "d3f7511a1805398723f36799db2af4e1",
-      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./IERC20Permit.sol",
-        "../ERC20.sol",
-        "../../../utils/cryptography/ECDSA.sol",
-        "../../../utils/cryptography/EIP712.sol",
-        "../../../utils/Nonces.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "ERC20Permit"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/Nonces.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "c32d108058718efb9061b88e83a83f79",
-      "sourceName": "@openzeppelin/contracts/utils/Nonces.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "Nonces"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/cryptography/ECDSA.sol": {
-      "lastModificationDate": 1726393714234,
-      "contentHash": "b96e0d7a3c2b185342c7d083d765b61f",
-      "sourceName": "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "ECDSA"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/cryptography/EIP712.sol": {
-      "lastModificationDate": 1726393714234,
-      "contentHash": "33f2efa11c674f59f4b8365be7a58da9",
-      "sourceName": "@openzeppelin/contracts/utils/cryptography/EIP712.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./MessageHashUtils.sol",
-        "../ShortStrings.sol",
-        "../../interfaces/IERC5267.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "EIP712"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol": {
-      "lastModificationDate": 1726393714244,
-      "contentHash": "da291753fa4641f2c5837bfc4aa4c01b",
-      "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "IERC20Permit"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC5267.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "94364524cb1a39dcbc3d3afff6d8e53e",
-      "sourceName": "@openzeppelin/contracts/interfaces/IERC5267.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "IERC5267"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/ShortStrings.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "1b71929454f558e486d1f4f2471f29d4",
-      "sourceName": "@openzeppelin/contracts/utils/ShortStrings.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./StorageSlot.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "ShortStrings"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/cryptography/MessageHashUtils.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "9e5eec59eaffa554d6cca561dcb914eb",
-      "sourceName": "@openzeppelin/contracts/utils/cryptography/MessageHashUtils.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../Strings.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "MessageHashUtils"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/StorageSlot.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "08cbccfefa284405c12b4bfa8c8c9c2b",
-      "sourceName": "@openzeppelin/contracts/utils/StorageSlot.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "StorageSlot"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "ba57ff4ddf1d9cae9d2009792795b7f6",
-      "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./math/Math.sol",
-        "./math/SignedMath.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "Strings"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/math/SignedMath.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "b6c6bdc7aaca4fe5b680760a72e09d3e",
-      "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "SignedMath"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "718fa8ba0ff269c92e364c1429d9de57",
-      "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "Math"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
-      "lastModificationDate": 1726393714244,
-      "contentHash": "50d770b698931f015309e77a750f54f6",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../ERC721.sol",
-        "../../../utils/Strings.sol",
-        "../../../interfaces/IERC4906.sol",
-        "../../../interfaces/IERC165.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "ERC721URIStorage"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "1e64e2ad597dc5b2dae11346502baad4",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
@@ -949,7 +459,271 @@
         "ERC721"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC165.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/Strings.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "ba57ff4ddf1d9cae9d2009792795b7f6",
+      "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./math/Math.sol",
+        "./math/SignedMath.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Strings"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "5df8fdb527e563085847cad29e3c5f2e",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../../utils/introspection/IERC165.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "IERC721"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "fc8a9841f4bdd6329c26a00d5e75f4b3",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "IERC721Receiver"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "12c206f185cb951213799561fdcaa40d",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../IERC721.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "IERC721Metadata"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/math/Math.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "718fa8ba0ff269c92e364c1429d9de57",
+      "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Math"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/utils/math/SignedMath.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "b6c6bdc7aaca4fe5b680760a72e09d3e",
+      "sourceName": "@openzeppelin/contracts/utils/math/SignedMath.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "SignedMath"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
+      "lastModificationDate": 1726393714244,
+      "contentHash": "50d770b698931f015309e77a750f54f6",
+      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../ERC721.sol",
+        "../../../utils/Strings.sol",
+        "../../../interfaces/IERC4906.sol",
+        "../../../interfaces/IERC165.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ERC721URIStorage"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC165.sol": {
       "lastModificationDate": 1726393714244,
       "contentHash": "f808b485ee0cdc6768ee8385ae5f9a2a",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC165.sol",
@@ -985,7 +759,7 @@
       ],
       "artifacts": []
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC4906.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC4906.sol": {
       "lastModificationDate": 1726393714254,
       "contentHash": "7f130e0d70179d683e9b9df0dda38a51",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC4906.sol",
@@ -1024,119 +798,7 @@
         "IERC4906"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "fc8a9841f4bdd6329c26a00d5e75f4b3",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "IERC721Receiver"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "12c206f185cb951213799561fdcaa40d",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../IERC721.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "IERC721Metadata"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1726393714254,
-      "contentHash": "5df8fdb527e563085847cad29e3c5f2e",
-      "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../../utils/introspection/IERC165.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "IERC721"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC721.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/interfaces/IERC721.sol": {
       "lastModificationDate": 1726393714254,
       "contentHash": "d8d23fc2f55ed934d1a1b91c9afd8526",
       "sourceName": "@openzeppelin/contracts/interfaces/IERC721.sol",
@@ -1172,7 +834,7 @@
       ],
       "artifacts": []
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
       "lastModificationDate": 1726393714254,
       "contentHash": "d3c790edc9ccf808a17c5a6cd13614fd",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
@@ -1210,7 +872,7 @@
         "Ownable"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/SpaceBear.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/SpaceBear.sol": {
       "lastModificationDate": 1726496693445,
       "contentHash": "0b1e6d74de28657b85829d9f4809f4f2",
       "sourceName": "contracts/SpaceBear.sol",
@@ -1250,46 +912,7 @@
         "SpaceBear"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/StarDucks.sol": {
-      "lastModificationDate": 1726662261252,
-      "contentHash": "350e66d6868ea223570bc6399a5b59cd",
-      "sourceName": "contracts/StarDucks.sol",
-      "solcConfig": {
-        "version": "0.8.24",
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "evmVersion": "paris",
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/token/ERC20/ERC20.sol",
-        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.20"
-      ],
-      "artifacts": [
-        "StarDucks"
-      ]
-    },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/SendMoneyExample.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/SendMoneyExample.sol": {
       "lastModificationDate": 1726497513182,
       "contentHash": "cebbe50df77242f7240a0310de15be44",
       "sourceName": "contracts/SendMoneyExample.sol",
@@ -1325,7 +948,7 @@
         "SendWithdrawMoney"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/SharedWallet.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/SharedWallet.sol": {
       "lastModificationDate": 1726556375591,
       "contentHash": "cf32bfadc799d60f96b04ca2c4bfb7e9",
       "sourceName": "contracts/SharedWallet.sol",
@@ -1361,7 +984,7 @@
         "SharedWallet"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/SmartWallet.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/SmartWallet.sol": {
       "lastModificationDate": 1726497507872,
       "contentHash": "51d23275d1c1ad0e5992d0807401ec90",
       "sourceName": "contracts/SmartWallet.sol",
@@ -1397,7 +1020,7 @@
         "SmartContractWallet"
       ]
     },
-    "/home/ardakl/blockchain-tutorials/hardhat/contracts/TokenTesting.sol": {
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/TokenTesting.sol": {
       "lastModificationDate": 1726497472772,
       "contentHash": "497eda81337c77ecf8013248d5a4a869",
       "sourceName": "contracts/TokenTesting.sol",

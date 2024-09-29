@@ -1,6 +1,6 @@
 /** @type import('hardhat/config').HardhatUserConfig */
 require("@nomicfoundation/hardhat-toolbox");
-require("dotenv").config({path: "/home/ardakl/blockchain-tutorials/hardhat/.env"})
+require("dotenv").config({path: "/home/ardakl/web3-javascript-libraries/hardhat/.env"})
 require("@nomicfoundation/hardhat-chai-matchers")
 require("@nomicfoundation/hardhat-ethers");
 
