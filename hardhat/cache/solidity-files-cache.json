@@ -1056,6 +1056,80 @@
         "ERC20",
         "TokenSale"
       ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/contracts/UpgradableContract.sol": {
+      "lastModificationDate": 1727718417702,
+      "contentHash": "21e4bcfefbf355c588d5ae965192b158",
+      "sourceName": "contracts/UpgradableContract.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/proxy/utils/Initializable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "UpgradableContract"
+      ]
+    },
+    "/home/ardakl/web3-javascript-libraries/hardhat/node_modules/@openzeppelin/contracts/proxy/utils/Initializable.sol": {
+      "lastModificationDate": 1726393714254,
+      "contentHash": "f0cedd674b4863ee90d1521a92ab82df",
+      "sourceName": "@openzeppelin/contracts/proxy/utils/Initializable.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "Initializable"
+      ]
     }
   }
 }

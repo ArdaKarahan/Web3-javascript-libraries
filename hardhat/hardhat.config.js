@@ -3,7 +3,7 @@ require("@nomicfoundation/hardhat-toolbox");
 require("dotenv").config({path: "/home/ardakl/web3-javascript-libraries/hardhat/.env"})
 require("@nomicfoundation/hardhat-chai-matchers")
 require("@nomicfoundation/hardhat-ethers");
-
+require("@nomicfoundation/hardhat-ignition-ethers");
 
 const infuraKey = process.env.INFURA_API_KEY
 const privateKey1 = process.env.PRIVATE_KEY_1
