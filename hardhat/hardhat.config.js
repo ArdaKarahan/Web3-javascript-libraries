@@ -4,6 +4,7 @@ require("dotenv").config({path: "/home/ardakl/web3-javascript-libraries/hardhat/
 require("@nomicfoundation/hardhat-chai-matchers")
 require("@nomicfoundation/hardhat-ethers");
 require("@nomicfoundation/hardhat-ignition-ethers");
+require('@openzeppelin/hardhat-upgrades');
 
 const infuraKey = process.env.INFURA_API_KEY
 const privateKey1 = process.env.PRIVATE_KEY_1
@@ -13,6 +14,9 @@ module.exports = {
   defaultNetwork: "hardhat",
   networks: {
     hardhat: {
+    },
+    localhost: {
+      url: "http://127.0.0.1:8545"
     },
     sepolia: {
       url: infuraKey,
